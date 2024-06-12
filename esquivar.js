@@ -1,4 +1,4 @@
-let sprJ;
+let sprJ1;
 let enemigo1;
 let enemigo2;
 let enemigo3;
